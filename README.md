@@ -24,10 +24,10 @@ O sistema de monitoramento de aquaterrário foi desenvolvido para monitorar e co
 - Vários jumpers macho-macho e macho-fêmea
 
 ### Estrutura do Repositório
-/Arduino_Code: Contém o código fonte para o microcontrolador Arduino.
-/Data_Analysis: Inclui notebook Python da análise dos dados coletados.
-/Documentation: Documentação adicional, esquemas de conexão e informações sobre os componentes.
-/Images: Imagens utilizadas na documentação.
+- /Arduino_Code: Contém o código fonte para o microcontrolador Arduino.
+- /Data_Analysis: Inclui notebook Python da análise dos dados coletados.
+- /Documentation: Documentação adicional, esquemas de conexão e informações sobre os componentes.
+- /Images: Imagens utilizadas na documentação.
 
 ### Instruções de Uso
 - Montagem do circuito conforme esquemas fornecidos na documentação.
