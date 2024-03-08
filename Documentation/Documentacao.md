@@ -11,5 +11,3 @@
 - 1x Protoboard
 - 1x Fonte de Alimentação DC de 9V
 - Vários jumpers macho-macho e macho-fêmea
-
-###Montagem do circuito
