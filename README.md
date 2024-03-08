@@ -4,6 +4,9 @@ Este repositório contém o código e a documentação para um sistema de monito
 ### Descrição
 O sistema de monitoramento de aquaterrário foi desenvolvido para monitorar e controlar as condições ambientais dentro de um aquaterrário, como temperatura e umidade. O projeto é baseado em um microcontrolador Arduino, sensores específicos e módulos de comunicação.
 
+### Vídeo
+[![Vídeo de apresentação](https://img.youtube.com/vi/uXTLigrCz8M/0.jpg)](https://www.youtube.com/watch?v=uXTLigrCz8M)
+
 ### Funcionalidades
 - Leitura e monitoramento contínuo de sensores de temperatura da água, temperatura e umidade do ar ambiente;
 - Armazenamento local dos dados coletados;
